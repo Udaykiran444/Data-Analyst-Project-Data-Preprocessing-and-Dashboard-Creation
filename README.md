@@ -4,7 +4,7 @@ This project showcases my skills as a data analyst, focusing on data preprocessi
 
 
 Technologies Used
-**Jupyter Notebook:** For data preprocessing, including data cleaning, manipulation, and exploratory data analysis (EDA).
+**Jupyter Notebook:** For data preprocessing, including data cleaning, manipulation, and exploratory data analysis (EDA)
 **Power BI**: To create an interactive dashboard that visualizes key metrics and insights derived from the data.
 
 
